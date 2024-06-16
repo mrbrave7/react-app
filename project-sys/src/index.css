@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Oxanium", sans-serif;
+}
+:root {
+  --Deep-Navy-Blue: #002C54;
+  --Bright-Red: #C5001A;
+  --Pale-Pink:  #FDF6F6;
+}
+body {
+  background: var(--Pale-Pink);
+  color: var(--Deep-Navy-Blue);
+}

@@ -1,0 +1,13 @@
+nav{
+    background: var(--Deep-Navy-Blue);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 200px;
+}
+
+
+.logo{
+    height: 60px;
+    width: 60px;
+}
